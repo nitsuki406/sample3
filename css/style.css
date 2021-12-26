@@ -20,7 +20,7 @@ main h2 {
     margin-bottom: 80px;
 }
 header {
-    background: url(../写真/ネモフィラ.jpg) no-repeat right center/cover;
+    background: url(../写真/ヘッダー.JPG) no-repeat right center/cover;
     color: #ffffff;
     font-size: 50px;
     text-align: center;
@@ -122,4 +122,13 @@ footer {
 }
 .foodSec img{
     width: 800px;
+}
+.HeadArea {
+    width: 100%;
+}
+@media screen and(max-width: 640px) {
+    
+}
+html {
+    width: 1500px;
 }
